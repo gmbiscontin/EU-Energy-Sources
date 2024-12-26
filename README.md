@@ -67,7 +67,7 @@ The project aims to investigate the relationship between energy sources and the 
 ---
 
 ## Sources
-- [European Central Bank Projections]([https://www.ecb.europa.eu/pub/projections/html/ecb.projections202203](https://www.ecb.europa.eu/press/projections/html/ecb.projections202203_ecbstaff~44f998dfd7.it.html))
+- [European Central Bank Projections](https://www.ecb.europa.eu/press/projections/html/ecb.projections202203_ecbstaff~44f998dfd7.it.html)
 - [Eurostat Energy Dataset](https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_s/default/table?lang=en)
 - [Electricity Price for Household Consumers](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Electricity_price_statistics#Electricity_prices_for_household_consumers)
 - [Electricity Maps](https://app.electricitymaps.com/zone/PL/72h)
